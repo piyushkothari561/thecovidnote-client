@@ -2,6 +2,8 @@ website link:
 
 https://thecovidnote-283505.web.app/
 
+![1](https://user-images.githubusercontent.com/77658144/189354231-89d0c069-f14f-414d-8731-d9c66ccbc087.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
